@@ -1,2 +1,2 @@
 # RenderNV21toRGBAbyOpengl
-this project is Render NV21 video to RGBA by Opengl,it also implements draw line and rectangle
+This project realized the use of OPENGL to render the video data in NV21 format, and also realized the functions of drawing lines and boxes on the video and superimposing watermarks
